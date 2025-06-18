@@ -3,9 +3,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=4a00e0,8e2de2&height=220&section=header&text=JaoRicFiuza&fontColor=fff&fontSize=50&animation=fadeIn&desc=Full%20Stack%20Developer%20%7C%20Inovador%20por%20Natureza&descAlignY=75&descAlign=62" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=500&multiline=true&width=700&height=50&lines=🚀+Transformando+ideias+em+realidade+digital!;🌎+Tecnologia%2C+comunidade+e+impacto+positivo.;💡+Sempre+aprendendo+e+evoluindo+" />
-</p>
 
 ---
 
